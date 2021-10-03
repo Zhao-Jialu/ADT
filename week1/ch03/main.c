@@ -1,3 +1,4 @@
+//链表的遍历、删除和插入
 #include<stdio.h>
 #include<stdlib.h>
 struct Node
