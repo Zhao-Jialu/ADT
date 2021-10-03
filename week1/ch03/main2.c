@@ -1,3 +1,4 @@
+//求两个链表的交集和并集
 #include<stdio.h>
 #include<stdlib.h>
 struct Node
