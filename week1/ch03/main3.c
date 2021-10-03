@@ -1,3 +1,4 @@
+//单链表实现两个多项式相加
 #include<stdio.h>
 #include<stdlib.h>
 typedef struct Node* Create;
