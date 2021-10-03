@@ -1,3 +1,4 @@
+//链表的特定值打印
 #include<stdio.h>
 #include<stdlib.h>
 struct Node
